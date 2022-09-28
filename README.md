@@ -16,7 +16,7 @@
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,lua,vue,nuxt&theme=dark" />
 </div>
 
 <br />
