@@ -9,8 +9,8 @@
 ## 🧐 About
 
 - Hi, I'm Shawnnn :D
-- 👨‍💻 Website: http://bettercord.xyz
-- 📫 How to reach me: Shawnnn#9310
+- 👨‍💻 Website: https://gohbot.space/
+- 📫 How to reach me: Shawnnn#7777
   
 <br />
    
