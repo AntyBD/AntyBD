@@ -10,13 +10,13 @@
 
 - Hi, I'm Shawnnn :D
 - 👨‍💻 Website: https://gohbot.space/
-- 📫 How to reach me: Shawnnn#7777
+- 📫 How to reach me: @internet.exploit (Discord)
   
 <br />
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,lua,vue,nuxt&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,lua,vue,nuxt,mongodb,mysql,sqlite&theme=dark" />
 </div>
 
 <br />
