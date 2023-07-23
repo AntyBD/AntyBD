@@ -8,7 +8,6 @@
    
 ## 🧐 About
 
-- Hi, I'm Shawnnn :D
 - 👨‍💻 Website: https://gohbot.space/
 - 📫 How to reach me: @internet.exploit (Discord)
   
